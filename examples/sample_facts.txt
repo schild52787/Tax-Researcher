@@ -1,0 +1,23 @@
+Sample Facts - Subpart F Analysis
+
+Cargill International Trading LLC is a U.S. corporation that owns 100% of Cargill Luxembourg Holdings S.A.,
+a Luxembourg corporation. Cargill Luxembourg Holdings S.A. owns 100% of Cargill Asia Trading Ltd.,
+a Hong Kong corporation.
+
+During tax year 2024, Cargill Asia Trading Ltd. earned $10,500,000 from commodity trading activities
+in Southeast Asia. Of this amount, $7,200,000 was derived from sales of agricultural commodities to
+unrelated third parties in Singapore, Thailand, and Vietnam. The remaining $3,300,000 was earned
+from providing hedging services to Cargill affiliated entities.
+
+John Smith, CFO of Cargill International Trading LLC, wants to know whether the income earned by
+Cargill Asia Trading Ltd. constitutes Subpart F foreign base company sales income (FBCSI) or
+foreign base company services income (FBCSvI) under IRC § 954.
+
+Key questions:
+1. Does the active conduct exception under IRC § 954(c)(2)(A) apply?
+2. Are the hedging services subject to FBCSvI rules under IRC § 954(e)?
+3. What documentation is needed to support the active conduct exception?
+
+Contact: john.smith@cargill.com
+Prepared by: Jane Doe, Senior Tax Manager
+Date: November 12, 2024

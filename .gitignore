@@ -55,6 +55,10 @@ htmlcov/
 client_data/
 memos/draft/
 
+# Exception: Allow example files
+!examples/*_facts.txt
+!examples/*_sanitized.txt
+
 # QA reports
 qa_reports/
 *.qa.json
